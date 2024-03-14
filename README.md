@@ -1,0 +1,1 @@
+# Corporate-Paradigm-Architect-React
